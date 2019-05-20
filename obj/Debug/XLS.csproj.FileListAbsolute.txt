@@ -1,0 +1,12 @@
+K:\Users\Ira\Desktop\Graphs\XLS\bin\Debug\XLS.exe.config
+K:\Users\Ira\Desktop\Graphs\XLS\bin\Debug\XLS.exe
+K:\Users\Ira\Desktop\Graphs\XLS\bin\Debug\XLS.pdb
+K:\Users\Ira\Desktop\Graphs\XLS\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.csprojAssemblyReference.cache
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.Form1.resources
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.Properties.Resources.resources
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.csproj.GenerateResource.cache
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.csproj.CoreCompileInputs.cache
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.csproj.CopyComplete
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.exe
+K:\Users\Ira\Desktop\Graphs\XLS\obj\Debug\XLS.pdb
